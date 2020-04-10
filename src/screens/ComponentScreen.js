@@ -15,7 +15,6 @@ const ComponentScreen = () => {
 
 };
 
-
 const styles = StyleSheet.create({
 
 	textStyle : {
